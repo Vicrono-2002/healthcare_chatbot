@@ -1,0 +1,11 @@
+
+    flask 
+    langchain 
+    langchain-community 
+    langchain-experimental 
+    langchain-pinecone 
+    sentence-transformers 
+    pypdf 
+    python-dotenv 
+    pinecone-client[grpc] 
+    -e .
